@@ -28,7 +28,7 @@ Try out variant way of running tests:
 
 ## Solutions
 
-The solutions for this coursework can be found here:
+Here are the solutions for this coursework:
 
 https://github.com/CodeYourFuture/JavaScript-Core-1-Coursework-Week1-Solution
 
